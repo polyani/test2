@@ -10,4 +10,7 @@ fun main(){
     println("l")
     println("w")
 
+    println("kjh")
+    print("akjsvgks")
+
 }
