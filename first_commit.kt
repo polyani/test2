@@ -1,16 +1,16 @@
 fun main(){
     println("Просто печать")
     println("a")
-    println("b")
-    println("c")
+    println("лоа")
+    println("уав")
     println("d")
     println("e")
-    println("t")
+    println("test")
     println("j")
     println("l")
     println("w")
 
     println("kjh")
-    print("akjsvgks")
+    print("всё")
 
 }
